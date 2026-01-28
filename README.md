@@ -2,6 +2,8 @@
 
 A semantic and structured personal resume built entirely with **HTML5**. This project was designed as a foundational web development assignment to demonstrate proficiency in document structure, tables, and lists without the use of external CSS frameworks.
 
+![HTML Resume Screenshot](HTML-Resume-Assignment.jpeg)
+
 ## 🚀 Features
 
 The resume is divided into several logical sections for easy readability and accessibility:
